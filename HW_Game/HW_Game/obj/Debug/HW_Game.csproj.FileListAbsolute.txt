@@ -1,0 +1,9 @@
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\bin\Debug\HW_Game.exe.config
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\bin\Debug\HW_Game.exe
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\bin\Debug\HW_Game.pdb
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.csprojResolveAssemblyReference.cache
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.Form1.resources
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.Properties.Resources.resources
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.csproj.GenerateResource.Cache
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.exe
+D:\Dokumenty\ШАГ\C#_ADO_NET\Проекти\HW_Game\HW_Game\obj\Debug\HW_Game.pdb
